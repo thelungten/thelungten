@@ -8,3 +8,6 @@
 * 🤖 I totally love programming in `JavaScript`, `Python`, `Golang`, `Java`, `Swift` and `PHP`.
 * 📱 Favorite frameworks: `React & React Native`, `Django`, `Express JS`, `Spring Boot`, and a whole lot more!
 * 🐤 Reach me on Twitter: [@thelungten](https://www.twitter.com/thelungten)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelungten)](https://github.com/thelungten/github-readme-stats)
+[![Lungten's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelungten)](https://github.com/thelungten/github-readme-stats)
