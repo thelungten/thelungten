@@ -6,7 +6,7 @@
 ## THE 'ME'
 * 🎶 I am (also) a little bit of singer/songwriter/music producer out here in my country! 
 * 🤖 I totally love programming in `JavaScript`, `Python`, `Golang`, `Java`, `Swift` and `PHP`.
-* 📱 Favorite frameworks: `React & React Native`, `Django`, `Express JS`, `Spring Boot`, and a whole lot more!
+* 📱 I am good at: `React & React Native`, `MongoDB`, `NodeJS`, `ExpressJS` and a few others!
 * 📷 Familiar with `Photoshop`, `Illustrator`, `Premiere Pro`, `Figma`, `XD`, list goes on.
 * 🐤 Reach me on Twitter: [@thelungten](https://www.twitter.com/thelungten)
 
