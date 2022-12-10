@@ -1,7 +1,7 @@
 # Hi There! Glad You're Here!
 ![](https://github.com/thelungten/thelungten/blob/main/coding.gif)
 
-* 🤖 I speak in `JavaScript/TypeScript`!
+* 🤖 I speak `JavaScript/TypeScript`!
 * 🏰 I live in `React & React Native`, `Tailwind CSS`, `NodeJS`, `ExpressJS`, `Firebase`,`MongoDB`...
 * 📷 I also do `Photoshop`, `Illustrator`, `Premiere Pro`, `Figma`, `XD`, list goes on.
 * 🐤 Reach me on Twitter: [@thelungten](https://www.twitter.com/thelungten)
