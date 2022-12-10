@@ -3,7 +3,7 @@
 
 * 🤖 I speak `JavaScript/TypeScript`!
 * 🏰 I live in `React & React Native`, `Tailwind CSS`, `NodeJS`, `ExpressJS`, `Firebase`,`MongoDB`...
-* 📷 I also do `Photoshop`, `Illustrator`, `Premiere Pro`, `Figma`, `XD`, list goes on.
+* 📷 I also do `Photoshop`, `Illustrator`, `Premiere Pro`, `Figma` & `XD`.
 * 🐤 Reach me on Twitter: [@thelungten](https://www.twitter.com/thelungten)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelungten)](https://github.com/thelungten/github-readme-stats)
