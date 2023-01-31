@@ -18,4 +18,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thelungten&show_icons=true&theme=graywhite)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thelungten&theme=graywhite&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thelungten&theme=graywhite)](https://github.com/thelungten/github-readme-stats)
