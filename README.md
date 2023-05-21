@@ -1,5 +1,5 @@
 # Hi There! Glad You're Here!
-![](https://github.com/thelungten/thelungten/blob/main/coding.gif)
+[![dev-cover.jpg](https://i.postimg.cc/0N0BxW1z/dev-cover.jpg)](https://postimg.cc/Jytq5Qn8)
 
 # 🤓 About Me:
 🥋 Full-stack web & mobile developer
