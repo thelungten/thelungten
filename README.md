@@ -1,4 +1,3 @@
-# Hi There! Glad You're Here!
 [![dev-cover.jpg](https://i.postimg.cc/0N0BxW1z/dev-cover.jpg)](https://postimg.cc/Jytq5Qn8)
 
 # 🤓 About Me:
