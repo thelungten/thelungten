@@ -6,7 +6,9 @@
 <p align="center">
 🥋 Full-stack web & mobile developer
 <br>
-🧐 Keen eye for design, attention to details and focus on functionality and scalability
+🧐 Keen eye for design & attention to details
+<br>  
+🚀 Strong focus on functionality and scalability
 <br>
 🚵🏻‍♀️ Currently exploring Artifical Intelligence and Machine Learning
 <br>
